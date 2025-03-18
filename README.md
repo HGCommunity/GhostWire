@@ -10,10 +10,10 @@ GhostWire is a **BepInEx** plugin that redirects Steamworks AppIDs and Photon mu
 ## Installation
 1. Install [BepInEx](https://github.com/BepInEx/BepInEx/releases) for your game.
 2. Download **GhostWire.dll** and place it in `BepInEx/plugins/`.
-3. Make a [PhotonEngine account](https://id.photonengine.com/) and setup a PUN and a Voice project, note down the project IDs.
+3. Make a [PhotonEngine account](https://id.photonengine.com/) and setup a PUN and a Voice project, note down the AppIDs.
 4. Configure your Photon AppIDs in the plugin's config file (`BepInEx/config/dev.hgcommunity.ghostwire.cfg`).
 5. Launch the game and enjoy your custom multiplayer setup!
-6. (Optionally) If you want to play with friends, send them this plugin and your config file (`BepInEx/config/dev.hgcommunity.ghostwire.cfg`).
+#### Optionally If you want to play with friends, send them this plugin and your config file.
 
 ## Configuration
 After running the game once, a config file will be generated at:
